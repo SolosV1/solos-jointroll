@@ -1,9 +1,6 @@
 # Solos - Joint Roller
 
-Joint Rolling mini game for FiveM. Enjoy!
-
-Why is this free? cuz i luv u <3
-I looked for a script similar to this but couldnt find one
+Joint Rolling Mini Game for FiveM. Enjoy!
 
 # Features
 
@@ -46,9 +43,10 @@ If you need additional support, you can open a ticket in discord.
 Please make sure you have read and followed the installation instructions in the documention (see below) before opening a ticket.
 
 /me Pats on head
+
 /me Good boy
 
-# More Drug Scripts and other resources:
+# More Drug Scripts and Other Resources:
 
 https://solosv.com
 
