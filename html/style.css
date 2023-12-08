@@ -1,0 +1,163 @@
+@import url('https://fonts.googleapis.com/css2?family=Poppins&display=swap');
+
+body {
+    display: flex;
+    justify-content: center;
+    align-items: center;
+    height: 100vh;
+    margin: 0;
+    font-family: 'Poppins', sans-serif;
+    background: rgba(0, 0, 0, 0.4) !important;
+    overflow: hidden;
+}
+
+.main {
+    display: flex;
+    flex-direction: column;
+    justify-content: center;
+    align-items: center;
+    height: 800px;
+    width: 1000px;
+    margin: 0;
+    font-family: 'Poppins', sans-serif;
+    background: rgba(0, 0, 0, 0.0) !important;
+}
+
+#roller-top {
+    position: relative;
+    width: 500px;
+    height: 100px;
+}
+
+#roller-bottom {
+    position: relative;
+    width: 500px;
+    height: 100px;
+}
+
+#game-container {
+    position: absolute;
+    width: 285px;
+    height: 60px;
+    margin-left: 85px;
+    background-color: rgba(110, 77, 6, 0.514);
+    background: url('https://i.imgur.com/Do3su6R.png');
+    border-radius: 0.25vh;
+
+    transform: skewX(-5deg);
+
+    opacity: 0.75;
+}
+
+#sticker {
+    position: absolute;
+    width: 150px;
+    height: 125px;
+
+    bottom: 30%;
+
+    background: url('https://i.imgur.com/h9fI6xO.png');
+    background-size: cover;
+    background-repeat: no-repeat;
+    background-position: center;
+}
+
+.weed {
+    position: absolute;
+    width: 60px;
+    height: 60px;
+    /* bottom: 1.5%; */
+    opacity: 0;
+    bottom: 10%;
+}
+
+#weed1 {
+    left: 0%;
+
+}
+
+#weed2 {
+    left: 5%;
+    transform: rotate(-180deg);
+
+}
+
+#weed3 {
+    left: 15%;
+}
+
+#weed4 {
+    left: 25%;
+    transform: rotate(-180deg);
+
+}
+
+#weed5 {
+    left: 32.5%;
+}
+
+#weed6 {
+    left: 42.5%;
+    transform: rotate(-180deg);
+}
+
+#weed7 {
+    left: 52.5%;
+}
+
+#weed8 {
+    left: 62.5%;
+    transform: rotate(-180deg);
+}
+
+#weed9 {
+    left: 72.5%;
+}
+
+#weed10 {
+    left: 80%;
+    transform: rotate(-180deg);
+}
+
+#weed11 {
+    left: 83.5%;
+
+}
+
+#weed12 {
+    left: 95%;
+    transform: rotate(-170deg);
+}
+
+#weed13 {
+    left: 102.5%;
+}
+
+
+
+#roll-button {
+    position: absolute;
+    display: none;
+    justify-content: center;
+    align-items: center;
+    color: white;
+    width: auto;
+    height: auto;
+    padding: 10px;
+    padding-top: 11.5px;
+    padding-bottom: 11.5px;
+    scale: 1.75;
+    top: 35%;
+    background-color: rgba(14, 110, 11, 0.774);
+    border: 1px solid rgba(255, 255, 255, 0);
+    border-radius: 50%;
+
+    box-shadow: 0px 0px 10px 0px rgba(0, 0, 0, 0.733);
+}
+
+#roll-button:hover {
+    cursor: pointer;
+    scale: 2.0;
+    border: 1px solid rgba(255, 255, 255, 0.733);
+
+}
