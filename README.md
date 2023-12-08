@@ -50,4 +50,8 @@ Please make sure you have read and followed the installation instructions in the
 
 https://solosv.com
 
+# Discord 
+
+https://discord.com/invite/m3bMSvDfr3 
+
 
