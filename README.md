@@ -21,7 +21,7 @@ I looked for a script similar to this but couldnt find one
 
 # Preview: 
 
-https://i.imgur.com/6Aezc8V.jpeg 
+[![Image](https://i.imgur.com/6Aezc8V.jpeg)]
 
 
 [![Video Preview](https://i.imgur.com/R7atAzO.png)](https://www.youtube.com/watch?v=Zx80Di53VwM&ab_channel=Solos)
