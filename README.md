@@ -24,7 +24,7 @@ I looked for a script similar to this but couldnt find one
 https://i.imgur.com/6Aezc8V.jpeg 
 
 
-[![Watch the video](https://www.youtube.com/watch?v=Zx80Di53VwM&ab_channel=Solos)]
+[(https://www.youtube.com/watch?v=Zx80Di53VwM&ab_channel=Solos)]
 
 # Compatibility
 
