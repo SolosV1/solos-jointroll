@@ -9,7 +9,7 @@ Joint Rolling Mini Game for FiveM. Enjoy!
 - Custom Effects / Buffs for each joint.
 
 - CUSTOM STRAINS ARE NOT INCLUDED, your server must already have any items you put in the config (or you can make them).
-- The strains you see in the previews are included with our Weed Farm Resource 
+- The strains you see in the previews are included with our ![Weed Farm Resource](https://solos.tebex.io/package/6026888)
 
 # Items Included:
 
