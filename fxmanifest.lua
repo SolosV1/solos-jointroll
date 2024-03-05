@@ -3,7 +3,7 @@ game 'gta5'
 
 author 'Solos'
 description 'solos-jointroll'
-version '1.0.0'
+version '1.1.0'
 
 client_script {
     'client.lua',
@@ -25,6 +25,8 @@ files {
     'html/index.html',
     'html/style.css',
     'html/script.js',
+    'assets/*.png',
+
 }
 
 escrow_ignore {
@@ -37,4 +39,3 @@ escrow_ignore {
 }
 
 lua54 'yes'
-dependency '/assetpacks'

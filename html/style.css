@@ -41,7 +41,7 @@ body {
     height: 60px;
     margin-left: 85px;
     background-color: rgba(110, 77, 6, 0.514);
-    background: url('https://i.imgur.com/Do3su6R.png');
+    background: url('../assets/joint_paper.png');
     border-radius: 0.25vh;
 
     transform: skewX(-5deg);
@@ -56,7 +56,7 @@ body {
 
     bottom: 30%;
 
-    background: url('https://i.imgur.com/h9fI6xO.png');
+    background: url('../assets/weed_grinded.png');
     background-size: cover;
     background-repeat: no-repeat;
     background-position: center;
