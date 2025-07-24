@@ -48,7 +48,7 @@ Please make sure you have read and followed the installation instructions in the
 
 # More Drug Scripts and Other Resources:
 
-https://solos.tebex.io/
+https://www.solosdev.com/
 
 # Discord 
 
